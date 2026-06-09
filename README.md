@@ -80,5 +80,5 @@ Crear un menú con acceso a 3 vistas:
 
 ### Sobre el proyecto base
 
-En el repo hay algunas funcionalidades y implementadas. Recomendamos leerlo antes de empezar a codear.
+En el repo hay algunas funcionalidades ya implementadas. Recomendamos leerlo antes de empezar a codear.
 
