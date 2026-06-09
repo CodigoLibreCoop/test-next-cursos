@@ -82,3 +82,6 @@ Crear un menú con acceso a 3 vistas:
 
 En el repo hay algunas funcionalidades ya implementadas. Recomendamos leerlo antes de empezar a codear.
 
+### Entrega
+
+El repositorio es público pero la rama main está protegida. Para subir la solución por favor crear una nueva rama llamada **"tuNombre_tuApellido"** y realizar un pull request a main.
